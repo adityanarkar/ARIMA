@@ -7,7 +7,7 @@ This project uses ARIMA model from stats model library.
 Data used:
 
 
-* Titan NSE
+* [Titan NSE](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
 
-* Adani power NSE
+* [Adani power NSE](https://in.finance.yahoo.com/quote/ADANIPOWER.NS/history/)
 
